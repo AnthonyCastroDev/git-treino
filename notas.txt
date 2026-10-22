@@ -1,4 +1,4 @@
-Versão main
+Versão feature
 
 - Estou estudando mais sobre github
 - quero aprender como versionar bem o meu código criar Branches e Simular como se estivesse em uma ambiente corporativo
