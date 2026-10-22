@@ -1,3 +1,5 @@
+Versão main
+
 - Estou estudando mais sobre github
 - quero aprender como versionar bem o meu código criar Branches e Simular como se estivesse em uma ambiente corporativo
 - Estou aprendendo git e github para aplicar conceitos de engenharia de software
