@@ -1,0 +1,6 @@
+lista de estudo para consolidar meus conhecimentos
+- Estudar mais e criar APIs REST
+- Aprender a proteger senhas com hast
+- Aprender mais sobre banco de dados 
+- Aprender mais sobre o Ef core 
+- Estudar JWT
