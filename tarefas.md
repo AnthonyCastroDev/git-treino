@@ -1,6 +1,6 @@
 # Tarefas da semana 
 
-- Refazer minha API C# com tudo que eu aprendi ate agora
-- Fazer a tarefa do Arnaldo 
-- Fazer a tarfa de comunicação 
+- Refazer minha API C# com tudo que eu aprendi até agora
+- Fazer a tarefa de Engenharia de Software
+- Fazer a tarefa de comunicação 
 
